@@ -14,4 +14,4 @@ Installation
 Provide instructions for installing any additional dependencies. For example:
 
 Data
-You can find the raw data named as 'Amazon Revenue Data.csv' file.
+You can find the raw data named as 'Amazon Sale Data.csv' file.
